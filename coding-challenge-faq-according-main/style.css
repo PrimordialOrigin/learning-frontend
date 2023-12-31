@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Ubuntu&family=Work+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-image{
+    width: 1920px;
+    height: 350px;
+    background-image: url(background-pattern-desktop.svg);
+    background-size: 100%;
+}
+body{
+    background-color: rgb(246, 239, 239);
+    font-family: Work Sans;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.faq-container{
+    box-sizing: border-box;
+    background-color: white;
+    width: 700px;
+    flex: 1 0;
+    padding: 15px 15px 0 15px;
+    border-radius: 15px;
+    position: absolute;
+    top: 20%;
+    box-shadow: 10px 10px 5px rgb(0, 0, 0, 0.1)
+}
+
+.title-header{
+    padding: 20px 20px 5px 20px;
+}
+
+.title-image{
+    display: inline-block;
+    width: 70px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 700;
+    color: hsl(292, 42%, 14%);
+}
+
+.question-answer{
+    font-size: 20px;
+    font-weight: 600;
+    color: hsl(292, 42%, 14%);
+    padding: 30px;
+    border-bottom: 2px rgb(249, 249, 249) solid;
+}
+
+.question:hover{
+    color: hsl(292, 99%, 37%);
+}
+
+.question-answer .answer{
+    font-size: 20px;
+    font-weight: 400;
+    color: hsl(292, 16%, 49%);
+    display: none;
+    margin-top: 25px;
+}
+
+
+
