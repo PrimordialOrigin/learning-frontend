@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formbox > div{
+    width: 100%;
+    height: 3vh;
+    margin-top: 5px;
+    border: 2px solid rgb(200, 200, 200);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
