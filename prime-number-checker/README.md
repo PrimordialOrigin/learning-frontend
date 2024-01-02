@@ -4,4 +4,4 @@
 Used to check whether a number is a prime number or not. 
 The interface will be improved in future
 
-<span style="color: yellow;"> ONE and THREE are not included.</span>
++ ONE and THREE are not included.
