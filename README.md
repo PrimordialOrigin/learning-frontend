@@ -1,4 +1,7 @@
-<div style="background-color: #f8d7da; color: #721c24; padding: 10px; border: 1px solid #f5c6cb; border-radius: 5px; margin-bottom: 15px;">
+<div style="background-image: url("<div style="background-color: #f8d7da;>
+  <strong>Important:</strong> This is an important message or banner.
+</div>
+); color: #721c24; padding: 10px; border: 1px solid #f5c6cb; border-radius: 5px; margin-bottom: 15px;">
   <strong>Important:</strong> This is an important message or banner.
 </div>
 
